@@ -52,15 +52,15 @@ Data files (located in data directory):
 
   If Python 3 is the only Python version installed on your machine, you can use the `python` command. For example:
 
-    ```
-    python data-fusion.py
-    ```
+   ```
+   python data-fusion.py
+   ```
   
   If both Python 2 and 3 are both installed, it's important to specify Python 3 using the `python3` command. For example:
 
-    ```
-    python3 data-fusion.py
-    ```
+   ```
+   python3 data-fusion.py
+   ```
 
 
 4. **Output:**
