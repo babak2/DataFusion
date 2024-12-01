@@ -81,7 +81,7 @@ Data files (located in data directory):
    - The script prints (to the terminal) whether the files contain the same data or not. If there are differences, it prints the differences between the files.
 
 
-## Contact 
+## Author 
 
 Babak Mahdavi Aresetani
 
