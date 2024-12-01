@@ -30,14 +30,14 @@ Data files (located in data directory):
 
 1. Clone the repository:
 
-    ```bash
+    ```
     git clone https://github.com/babak2/DataFusion.git
     cd DataFusion
     ```
 
 2. Install the required Python packages:
 
-    ```bash
+    ```
     pip install pandas numpy
     ```
 
@@ -58,7 +58,7 @@ Data files (located in data directory):
   
   If both Python 2 and 3 are both installed, it's important to specify Python 3 using the `python3` command. For example:
 
-    ```bash
+    ```
     python3 data-fusion.py
     ```
 
@@ -73,7 +73,7 @@ Data files (located in data directory):
 
 2. **Running the Script:**
 
-    ```bash
+    ```
     python3 compare-files.py
     ```
 
