@@ -52,7 +52,7 @@ Data files (located in data directory):
 
   If Python 3 is the only Python version installed on your machine, you can use the `python` command. For example:
 
-    ```bash
+    ```
     python data-fusion.py
     ```
   
