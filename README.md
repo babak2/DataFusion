@@ -14,7 +14,7 @@ The program consists of two scripts:
 
 Data files (located in data directory): 
 
-1. `IEA Price FIN Clean gr014 GLOBAL.dta` (input file: this is a STATA dataset)
+1. `IEA_Price_FIN_Clean_gr014_GLOBAL.dta` (input file: this is a STATA dataset)
 2. `population.csv` (input file)
 3. `valinfo_orig.csv` (this is the original valinfo file to be used for comparasion with the generated output)
 
